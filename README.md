@@ -7,8 +7,7 @@
 - 🧑‍⚖️ **Peer reviewer** for *Scientific Reports*, *BMC Medical Imaging* and the *Iranian Journal of Science and Technology* (Springer Nature)
 - 🗄️ **Background:** Oracle DBA and data engineering (large-scale migrations, Data Guard disaster recovery, ERP automation), now cloud engineering and analytics on AWS
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ)
-<!-- Add more links here, e.g. · [ORCID](URL) · [LinkedIn](URL) -->
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ) · [ORCID](https://orcid.org/0009-0007-7523-0571) · [LinkedIn](https://www.linkedin.com/in/raiyan-m-7559a1332/)
 
 ---
 

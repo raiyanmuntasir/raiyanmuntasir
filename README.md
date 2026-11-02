@@ -24,7 +24,7 @@
 
 Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ).
 
-- **Monim, R. M.**, Islam, K., Asad, S. M., Hussain, M. A., Hossen, B., Manjar, M. T. A., & Sultana, S. (2026). Generative AI for early disease detection: Hybrid ViT-CNN with multi-head attention in medical imaging. *Journal of Information Systems Engineering and Management*, 11(2s).
+- **Monim, R. M.**, Islam, K., Asad, S. M., Hussain, M. A., Hossen, B., Manjar, M. T. A., & Sultana, S. (2026). Generative AI for early disease detection: Hybrid ViT-CNN with multi-head attention in medical imaging. *Journal of Information Systems Engineering and Management*, 11(2s), 655–676. [doi:10.52783/jisem.v11i2s.14462](https://doi.org/10.52783/jisem.v11i2s.14462)
 - Hussain, M. A., Rahman, M. R., Islam, K., Alim, M. A., Sultana, S., Asad, S. M., & **Monim, R. M.** (2026). AI-driven predictive analytics for intelligent healthcare monitoring and early disease detection. *Journal of Posthumanism*, 6(2), 748–771. [doi:10.63332/joph.v6i2.4020](https://doi.org/10.63332/joph.v6i2.4020)
 - Ramzan, H. A., Islam, K., Hussain, M. A., **Monim, R. M.**, Asad, S. M., & Ramzan, S. (2026). Data-driven test case prioritization (DD-TCP): A machine learning framework for intelligent software quality assurance. *Computers, Materials & Continua*, 88(1). [doi:10.32604/cmc.2026.077782](https://doi.org/10.32604/cmc.2026.077782)
 - Ramzan, H. A., Asad, S. M., **Monim, R. M.**, Rauf, M., Zainab, Y., & Awais, M. (2025). Emotion recognition in children using lightweight deep learning model for mobile applications. *2025 IEEE International Conference on Future Machine Learning and Data Science (FMLDS)*, 213–218. [doi:10.1109/FMLDS67896.2025.00045](https://doi.org/10.1109/FMLDS67896.2025.00045)

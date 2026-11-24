@@ -15,7 +15,7 @@
 
 | Repository | What it does | Paper |
 |---|---|---|
-| [**clincon-ehr**](https://github.com/raiyanmuntasir/clincon-ehr) | Interpretable rule-based and causal knowledge-graph detection of patient-level clinical inconsistencies in synthetic EHRs (9 error types; benchmarked against an Isolation Forest baseline) | First author, manuscript in preparation |
+| [**clincon-ehr**](https://github.com/raiyanmuntasir/clincon-ehr) | Interpretable rule-based and probabilistic detection of patient-level clinical inconsistencies in synthetic EHRs (9 error types; benchmarked against an Isolation Forest baseline) | First author, manuscript in preparation |
 | [**brain-tumor-hybrid-vit-cnn**](https://github.com/raiyanmuntasir/brain-tumor-hybrid-vit-cnn) | Hybrid CNN–Vision Transformer with multi-head attention for brain tumour MRI classification, with Grad-CAM, attention rollout and a train/test leakage checker | First author, *JISEM* 2026 |
 | [**clinical-rag-rationales**](https://github.com/raiyanmuntasir/clinical-rag-rationales) | Classifier-guided retrieval-augmented rationale generation from clinical notes + labs, with automatic faithfulness checks | Co-author, manuscript in preparation |
 | [**explainable-disease-prediction**](https://github.com/raiyanmuntasir/explainable-disease-prediction) | Leakage-safe ensemble and stacked models for early disease diagnosis with Shapley explanations and clinically relevant metrics | Co-author, 2022 and 2026 |

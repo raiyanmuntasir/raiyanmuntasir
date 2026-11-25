@@ -1,11 +1,12 @@
 ### Hi, I'm Raiyan Muntasir Monim 👋
 
-**Machine learning researcher in healthcare AI.** I work on explainable models for early disease detection, clinical data quality and medical image analysis, built on 10 years of enterprise data engineering. I'm based in Brooklyn, New York.
+**Machine learning researcher in healthcare AI.** I work on explainable models for early disease detection, clinical data quality and medical image analysis, alongside research on trustworthy, secure and human-centered AI. This builds on 10 years of enterprise systems experience. I'm based in Brooklyn, New York.
 
-- 🔬 **Research focus:** explainable AI for clinical prediction, consistency of synthetic electronic health records, hybrid CNN–Vision Transformer models for medical imaging, and retrieval-augmented rationale generation
-- 📝 **7 peer-reviewed publications** (2022–2027), cited 28 times on Google Scholar, including an IEEE conference paper. First author of a hybrid ViT-CNN medical imaging study.
+- 🔬 **Research focus:** explainable AI for clinical prediction, consistency of synthetic electronic health records, hybrid CNN–Vision Transformer models for medical imaging, retrieval-augmented rationale generation, and adversarially robust, human-centered AI
+- 📝 **7 peer-reviewed publications** (2022–2027), cited 28 times on Google Scholar, including a Springer Nature journal article and an IEEE conference paper. First author of a hybrid ViT-CNN medical imaging study; corresponding author of a multi-domain adversarial defense study.
 - 🧑‍⚖️ **Peer reviewer** for *Scientific Reports*, *BMC Medical Imaging* and the *Iranian Journal of Science and Technology* (Springer Nature)
-- 🗄️ **Background:** Oracle DBA and data engineering (large-scale migrations, Data Guard disaster recovery, ERP automation), now cloud engineering and analytics on AWS
+- 🗄️ **Background:** 10 years in enterprise systems, from Oracle database administration (large-scale migrations, Data Guard disaster recovery, ERP automation) to leading a 20-person technical support team; now a Software Support Engineer
+- 🎓 **Education:** MS in Information Studies, Trine University (2025); BSc in Computer Science and Engineering (2013)
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ) · [ORCID](https://orcid.org/0009-0007-7523-0571) · [LinkedIn](https://www.linkedin.com/in/raiyan-m-7559a1332/)
 
@@ -34,4 +35,4 @@ Full list on [Google Scholar](https://scholar.google.com/citations?hl=en&user=WL
 
 #### 🛠️ Toolbox
 
-`Python` · `PyTorch` · `scikit-learn` · `pandas` · `SHAP` · `FAISS` · `SQL / PL-SQL` · `R` · `Oracle` · `AWS (EC2, S3, CloudWatch)` · `Power BI` · `Tableau`
+`Python` · `PyTorch` · `scikit-learn` · `pandas` · `SHAP` · `FAISS` · `SQL / PL-SQL` · `R` · `Oracle` · `Power BI` · `Tableau`

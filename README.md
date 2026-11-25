@@ -8,7 +8,7 @@
 - 🗄️ **Background:** 10 years in enterprise systems, from Oracle database administration (large-scale migrations, Data Guard disaster recovery, ERP automation) to leading a 20-person technical support team; now a Software Support Engineer
 - 🎓 **Education:** MS in Information Studies, Trine University (2025); BSc in Computer Science and Engineering (2013)
 
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ) · [ORCID](https://orcid.org/0009-0007-7523-0571) · [LinkedIn](https://www.linkedin.com/in/raiyan-m-7559a1332/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=WLqOvTIAAAAJ) · [ORCID](https://orcid.org/0009-0007-7523-0571) · [LinkedIn](https://www.linkedin.com/in/raiyanmuntasir/)
 
 ---
 
